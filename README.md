@@ -58,3 +58,10 @@ Dashboard Actions
 ## Live Dashboard
 
 👉 https://public.tableau.com/views/First_Tableau_17750474854270/ProfitAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+---
+## Dashboards Preview
+<p align="center">
+  <img src="Profit Analysis Dashboard.png" width="700">
+  <img src="Sales Analysis Dashboard.png" width="700">
+</p>
