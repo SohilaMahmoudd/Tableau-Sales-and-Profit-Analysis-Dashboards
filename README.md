@@ -62,6 +62,7 @@ Dashboard Actions
 ---
 ## Dashboards Preview
 <p align="center">
-  <img src="Profit Analysis Dashboard.png" width="700">
   <img src="Sales Analysis Dashboard.png" width="700">
+  <img src="Profit Analysis Dashboard.png" width="700">
+  
 </p>
